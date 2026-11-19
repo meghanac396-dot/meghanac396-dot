@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Meghana! 👋
 
-<!--
-**meghanac396-dot/meghanac396-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE-AIML Student | Aspiring Developer
 
-Here are some ideas to get you started:
+I'm exploring technology and developing my
+programming skills by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+- Second-year CSE-AIML student
+- Interested in Artificial Intelligence
+- Exploring Web Development
+- Learning Cybersecurity
+- Passionate about technology
+
+## 💻 Technologies
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 My Goals
+- Build real-world projects
+- Improve my technical skills
+- Explore AI applications
+- Secure a good internship
+
+## 🌱 Currently Learning
+Web Development | AI | Cybersecurity
